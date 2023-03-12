@@ -1,2 +1,2 @@
 # resume
-![LINK](http://simaderr.github.io/resume)
+[LINK](http://simaderr.github.io/resume)
